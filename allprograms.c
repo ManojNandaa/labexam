@@ -63,7 +63,7 @@ int main() {
 
 
 
-//1b.bitstuff
+//1b.charcstuff
 
 #include <stdio.h>
 
